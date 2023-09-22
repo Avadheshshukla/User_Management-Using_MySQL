@@ -91,7 +91,7 @@ POST Method :  http://localhost:8080/addUsers
 
 <!-- Contact -->
 ## Contact
-For questions or feedback, please contact : Deepak kumar singh   -
+For questions or feedback, please contact : Avadhesh Shukla   -
 - Maild Id : avadheshukla1636@gmail.com
 
 <h1 align="center">Thank You...💖<h1>
