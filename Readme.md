@@ -94,5 +94,5 @@ POST Method :  http://localhost:8080/addUsers
 For questions or feedback, please contact : Deepak kumar singh   -
 - Maild Id : avadheshukla1636@gmail.com
 
-<h1 align="center" style ="color: Pink">Thank You...💖<h1>
+<h1 align="center">Thank You...💖<h1>
 <h3 align = "center"> ***********************************************************<h3>
