@@ -82,6 +82,9 @@ POST Method :  http://localhost:8080/addUsers
   #### Update User ID :
  - PUT Method :   http://localhost:8080/update/id/1?phoneNumber=9984987307
 
+ #####Swagger Link : 
+ - http://localhost:8085/swagger-ui/index.html
+
 
 
 
